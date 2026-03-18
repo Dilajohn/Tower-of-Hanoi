@@ -350,6 +350,4 @@ __pycache__/
 
 ---
 
-## 📄 License
 
-This project is for educational purposes.
